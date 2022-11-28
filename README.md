@@ -38,8 +38,5 @@
 
 </td><td valign="top" width="50%">
   
-  
-
-:mag:Contact me via e-mail: dahal.dibya7@gmail.com.
 
 
