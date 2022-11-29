@@ -42,7 +42,7 @@
 
   
   ## Connect with me  
-<div align="center">
+<div align="center" justifycontent="space-between">
 
 <a href="https://twitter.com/DDibya7" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
