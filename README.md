@@ -7,11 +7,17 @@
 
 
 💻: React
+
 💻: Node
+
 💻: Redux
+
 💻: Typescript
+
 💻: AWS
+
 💻: HTML
+
 💻: CSS
 
 
