@@ -5,22 +5,6 @@
 🏫:Student at Business College Helsinki in Fullstack Web Developer Program in React and Node.
 
 
-
-💻: React
-
-💻: Node
-
-💻: Redux
-
-💻: Typescript
-
-💻: AWS
-
-💻: HTML
-
-💻: CSS
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
