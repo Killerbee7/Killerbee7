@@ -2,8 +2,17 @@
 
 
 
-:computer:Student at Business College Helsinki in Fullstack Web Developer Program in React and Node. Currently mastering vanilla JavaScript, HTML, CSS, React and Node. 
+🏫:Student at Business College Helsinki in Fullstack Web Developer Program in React and Node.
 
+
+
+💻: React
+💻: Node
+💻: Redux
+💻: Typescript
+💻: AWS
+💻: HTML
+💻: CSS
 
 
 ## My Skill Set  
